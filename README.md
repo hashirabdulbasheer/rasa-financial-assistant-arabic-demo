@@ -1,2 +1,5 @@
-# rasa-financial-assistant-arabic-demo
-This is the demo of Rasa supporting arabic language
+
+# Rasa Arabic Demo
+
+This project is a modified version of the Rasa's financial starter pack to demo Rasa's support of the Arabic language.
+
